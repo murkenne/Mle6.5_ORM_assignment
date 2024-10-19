@@ -1,4 +1,5 @@
-
+# Start the app
+python app.py
 # Retrieve a specific member by ID
 GET http://127.0.0.1:5000/members/1
 
